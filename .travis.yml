@@ -20,3 +20,5 @@ matrix:
 
 notifications:
   email: false
+
+archive: true
