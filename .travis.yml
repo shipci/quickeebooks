@@ -16,7 +16,7 @@ matrix:
       gemfile: gemfiles/4.0.Gemfile
       
   include: 
-  #  - rvm: 1.9.3
+    - rvm: 1.9.3
 
 notifications:
   email: false
